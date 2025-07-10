@@ -1,15 +1,1 @@
-proxies:
-  - name: "us01-yyqq"
-    type: vless
-    server: a01.theyyqq.top
-    port: 39713
-    uuid: 1e03490a-477a-4045-a931-a0b0f11c4fa1
-    network: ws
-    tls: true
-    udp: true
-    servername: a01.theyyqq.top
-    skip-cert-verify: false
-    ws-opts:
-      path: "/yyqq"
-      headers:
-        Host: a01.theyyqq.top
+
